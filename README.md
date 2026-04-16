@@ -378,7 +378,7 @@
 - [Antiz96/zaman](https://github.com/Antiz96/zaman) - A simple CLI tool to display (or save) man pages as PDFs.
 - [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
 - [osixia/docker-phpLDAPadmin](https://github.com/osixia/docker-phpLDAPadmin) - phpLDAPadmin container image 🐳🌴
-- [osixia/container-openldap](https://github.com/osixia/container-openldap) - OpenLDAP container image 🐳🌴
+- [osixia/container-openldap](https://github.com/osixia/container-openldap) - OpenLDAP container image 🐳🪪🌴
 - [travelaudience/kubernetes-nexus](https://github.com/travelaudience/kubernetes-nexus) - Run Sonatype Nexus Repository Manager OSS on top of Kubernetes (GKE). Includes instructions for automated backups (GCS) and day-to-day usage.
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
