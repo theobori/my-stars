@@ -144,6 +144,7 @@
 - [Seirdy/moac](https://github.com/Seirdy/moac) - Generate passwords and analyze their strength given physical limits to computation
 - [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) - TUI for viewing logs from journald, auditd, file system, Docker and Podman containers, Compose stacks and Kubernetes pods with support for log highlighting and several filtering modes.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+- [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [orivej/go-nix](https://github.com/orivej/go-nix) - Nix language parser and Nix-compatible file hasher in Go
 - [vinegarhq/vinegar](https://github.com/vinegarhq/vinegar) - Run Roblox Studio on Linux.
@@ -342,7 +343,6 @@
 - [WGUNDERWOOD/tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt) - An extremely fast LaTeX formatter written in Rust
 - [ElXreno/flathub-stats](https://github.com/ElXreno/flathub-stats) - Utility for fast grepping stats from Flathub.
 - [ddnet/ddnet-rs](https://github.com/ddnet/ddnet-rs) - 
-- [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [mlvzk/manix](https://github.com/mlvzk/manix) - A fast CLI documentation searcher for Nix.
 - [NixOS/ofborg](https://github.com/NixOS/ofborg) - @ofborg tooling automation https://monitoring.ofborg.org/dashboard/db/ofborg
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
