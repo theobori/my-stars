@@ -27,7 +27,6 @@
 - [Markdown](#markdown)
 - [Nim](#nim)
 - [Nix](#nix)
-- [Nushell](#nushell)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -263,10 +262,6 @@
 - [jtojnar/nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Beat your package expressions into a shape
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
-## Nushell 
-
-- [Defelo/nixpkgs-review-gha](https://github.com/Defelo/nixpkgs-review-gha) - Run nixpkgs-review in GitHub Actions
-
 ## Others 
 
 - [mre/spaceglenda](https://github.com/mre/spaceglenda) - Vectorized, colorized version of Space Glenda, the Plan 9 mascot.
@@ -346,6 +341,7 @@
 - [WGUNDERWOOD/tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt) - An extremely fast LaTeX formatter written in Rust
 - [ElXreno/flathub-stats](https://github.com/ElXreno/flathub-stats) - Utility for fast grepping stats from Flathub.
 - [ddnet/ddnet-rs](https://github.com/ddnet/ddnet-rs) - 
+- [Defelo/nixpkgs-review-gha](https://github.com/Defelo/nixpkgs-review-gha) - Run nixpkgs-review in GitHub Actions
 - [mlvzk/manix](https://github.com/mlvzk/manix) - A fast CLI documentation searcher for Nix.
 - [NixOS/ofborg](https://github.com/NixOS/ofborg) - @ofborg tooling automation https://monitoring.ofborg.org/dashboard/db/ofborg
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
