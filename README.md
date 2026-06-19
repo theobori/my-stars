@@ -374,7 +374,7 @@
 - [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [bcliang/docker-libgourou](https://github.com/bcliang/docker-libgourou) - dockerized version of libgourou (free implementation of Adobe's ADEPT protocol used to manage DRM in ePub/PDF files). ACSM, Adobe Digital Editions, WINE-free
-- [Antiz96/zaman](https://github.com/Antiz96/zaman) - A simple CLI tool to display (or save) man pages as PDFs.
+- [Antiz96/manora](https://github.com/Antiz96/manora) - A simple CLI / TUI tool to display (or save) man pages as PDFs.
 - [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
 - [osixia/docker-phpLDAPadmin](https://github.com/osixia/docker-phpLDAPadmin) - phpLDAPadmin container image 🐳🌴
 - [osixia/container-openldap](https://github.com/osixia/container-openldap) - OpenLDAP container image 🐳🪪🌴
