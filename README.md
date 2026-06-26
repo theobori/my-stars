@@ -354,7 +354,7 @@
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [mkrueger/MysticDraw](https://github.com/mkrueger/MysticDraw) - ANSI drawing tool, supports ANSI/ASCII/AVATAR/PCBorard, XBIN/BIN .xb/.bin, IceDraw .idf, Artworx .adf and TundraDraw .tnd files.
-- [Antiz96/manora](https://github.com/Antiz96/manora) - A simple CLI / TUI tool to display, download and save man pages as PDF files.
+- [Antiz96/manora](https://github.com/Antiz96/manora) - A simple CLI & TUI tool to display, download and save man pages as PDF files.
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [theobori/tinychip](https://github.com/theobori/tinychip) - CHIP-8 interpreter with video and audio emulation
 - [paulcomte/Splitter](https://github.com/paulcomte/Splitter) - Image splitter
