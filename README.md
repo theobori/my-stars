@@ -395,7 +395,7 @@
 
 ## TypeScript 
 
-- [FlameFlag/nixcord](https://github.com/FlameFlag/nixcord) - Declarative Vencord & Equciord Plugins + Options
+- [4evy/nixcord](https://github.com/4evy/nixcord) - One Nix config for Discord mods, themes, and clients.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
