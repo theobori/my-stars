@@ -241,7 +241,6 @@
 - [xremap/nix-flake](https://github.com/xremap/nix-flake) - 
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [ndfined-crp/ayugram-desktop](https://github.com/ndfined-crp/ayugram-desktop) - AyuGram - it's a fork of telegram that have many useful features. Is NixOS flake, made for installing AyuGram
-- [semi710/nsearch](https://github.com/semi710/nsearch) - Packages Search for Nixos/Nixpkgs
 - [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a modular, easily customizable setup. It provides a structured way to manage your system configuration and dotfiles with minimal effort.
 - [the-argus/spicetify-nix](https://github.com/the-argus/spicetify-nix) - A nix flake for configuring spicetify. Includes packaging for many popular themes and extensions.
 - [in-a-dil-emma/declarative-flatpak](https://github.com/in-a-dil-emma/declarative-flatpak) - Declaratively manage Flatpak installations in NixOS and your $HOME
@@ -369,6 +368,7 @@
 - [dracut-ng/dracut](https://github.com/dracut-ng/dracut) - dracut - the event driven initramfs infrastructure
 - [derekstavis/fish-ai](https://github.com/derekstavis/fish-ai) - Don't remember the shell command? Use `ai` to figure out!
 - [samueldr/lix-gha-installer-action](https://github.com/samueldr/lix-gha-installer-action) - 
+- [semi710/nsearch](https://github.com/semi710/nsearch) - Packages Search for Nixos/Nixpkgs
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [hundredrabbits/thebook](https://github.com/hundredrabbits/thebook) - north pacific logbook
 - [miguilimzero/teeworlds-mods](https://github.com/miguilimzero/teeworlds-mods) - Repository containg the compiling scripts, binaries and maps of multiple Teeworlds mods.
