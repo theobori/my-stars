@@ -13,7 +13,6 @@
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
-- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -133,10 +132,6 @@
 - [radian-software/straight.el](https://github.com/radian-software/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
 - [themkat/.emacs.d](https://github.com/themkat/.emacs.d) - My .emacs.d configuration. Even have a Github Actions pipeline :smirk:
 
-## Fluent 
-
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
 ## Go 
 
 - [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
@@ -176,6 +171,7 @@
 
 - [nix-community/builtwithnix.org](https://github.com/nix-community/builtwithnix.org) - Share the love of Nix [maintainer=@zimbatm]
 - [noqqe/why-openbsd.rocks](https://github.com/noqqe/why-openbsd.rocks) - A website that helps me showing people why OpenBSD rocks
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## Haskell 
 
