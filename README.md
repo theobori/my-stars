@@ -303,6 +303,7 @@
 
 ## Python 
 
+- [davep/rogallo](https://github.com/davep/rogallo) - A terminal-based client for the small web
 - [mxmlnkn/mfusepy](https://github.com/mxmlnkn/mfusepy) - Ctypes bindings for the high-level API in libfuse 2 and 3
 - [hauntsaninja/git_bayesect](https://github.com/hauntsaninja/git_bayesect) - Bayesian git bisect
 - [EbodShojaei/bake](https://github.com/EbodShojaei/bake) - mbake is a Makefile formatter and linter. It only took 50 years!
