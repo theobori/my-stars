@@ -141,6 +141,7 @@
 
 ## Go 
 
+- [hashicorp/go-set](https://github.com/hashicorp/go-set) - The go-set package provides generic Set implementations for Go, including HashSet for types with a Hash() function and TreeSet for orderable data
 - [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
 - [mitchellh/go-wordwrap](https://github.com/mitchellh/go-wordwrap) - A Go (golang) library for wrapping words in a string.
