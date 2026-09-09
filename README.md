@@ -34,6 +34,7 @@
 - [Python](#python)
 - [QuakeC](#quakec)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [SVG](#svg)
 - [Shell](#shell)
 - [TeX](#tex)
@@ -95,7 +96,7 @@
 
 ## C# # 
 
-- [NikolayIT/RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTor
+- [NikolayIT/RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Standalone app that fakes the upload and download a BitTorrent tracker sees for a torrent, without a torrent client and without transferring anything. Byte-exact emulation of 34 client versions (qBitt
 - [cwensley/pablodraw](https://github.com/cwensley/pablodraw) - PabloDraw is an Ansi/Ascii text and RIPscrip vector graphic art editor/viewer with multi-user capabilities.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
@@ -368,6 +369,10 @@
 - [theobori/tinychip](https://github.com/theobori/tinychip) - CHIP-8 interpreter with video and audio emulation
 - [paulcomte/Splitter](https://github.com/paulcomte/Splitter) - Image splitter
 - [heinrich5991/libtw2](https://github.com/heinrich5991/libtw2) - Some Teeworlds stuff in Rust.™
+
+## SCSS 
+
+- [arpitbatra123/eleventy-blog-mnml](https://github.com/arpitbatra123/eleventy-blog-mnml) - A minimal blog template using eleventy
 
 ## SVG 
 
