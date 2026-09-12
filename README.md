@@ -262,7 +262,7 @@
 - [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) - Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN]
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [theobori/nixos-configuration](https://github.com/theobori/nixos-configuration) - My NixOS configuration
-- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu,@cyclic-pentane]
+- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@cyclic-pentane]
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
