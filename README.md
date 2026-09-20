@@ -54,6 +54,7 @@
 
 ## C 
 
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [metux/libephemeron](https://github.com/metux/libephemeron) - tiny per-request memory allocator library (PoC)
 - [matthewearl/JoeQuake-1](https://github.com/matthewearl/JoeQuake-1) - Quake engine mod targeted for speedrunning
 - [xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan) - NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.
