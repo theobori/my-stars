@@ -107,7 +107,6 @@
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [FoxNet-DDNet/Entity-Client-DDNet](https://github.com/FoxNet-DDNet/Entity-Client-DDNet) - DDNet Client with extra features
 - [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
 - [NASA-SW-VnV/ikos](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
@@ -252,7 +251,7 @@
 - [xremap/nix-flake](https://github.com/xremap/nix-flake) - 
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [ndfined-crp/ayugram-desktop](https://github.com/ndfined-crp/ayugram-desktop) - AyuGram - it's a fork of telegram that have many useful features. Is NixOS flake, made for installing AyuGram
-- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a minimalist, modular & easily customizable setup, heavily focused on TUIs. It provides a structured way to manage your system configuration and
+- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a minimalist & easily customizable NixOS setup, heavily focused on TUIs.
 - [the-argus/spicetify-nix](https://github.com/the-argus/spicetify-nix) - A nix flake for configuring spicetify. Includes packaging for many popular themes and extensions.
 - [in-a-dil-emma/declarative-flatpak](https://github.com/in-a-dil-emma/declarative-flatpak) - Declaratively manage Flatpak installations in NixOS and your $HOME
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]
@@ -314,6 +313,7 @@
 - [EbodShojaei/bake](https://github.com/EbodShojaei/bake) - mbake is a Makefile formatter and linter. It only took 50 years!
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [gw1urf/fakejpeg](https://github.com/gw1urf/fakejpeg) - Generate files that are almost JPEGs with random data. Possibly useful in feeding aggressive web crawlers.
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [jifunks/botany](https://github.com/jifunks/botany) - command line virtual plant buddy
 - [pyjokes/pyjokes](https://github.com/pyjokes/pyjokes) - One line jokes for programmers (jokes as a service)
 - [jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids) - book for parents and kids.
