@@ -61,7 +61,7 @@
 - [donno2048/snake-quine](https://github.com/donno2048/snake-quine) - An ASCII snake game, whose game layout is compilable and plays an ASCII snake game whose layout is compilable...
 - [PadWorld-Entertainment/worldofpadman](https://github.com/PadWorld-Entertainment/worldofpadman) - World of PADMAN game repository
 - [9fans/plan9port](https://github.com/9fans/plan9port) - Plan 9 from User Space
-- [Teero888/frametee](https://github.com/Teero888/frametee) - DDrace TAS Tool
+- [Teero888/frametee](https://github.com/Teero888/frametee) - TAS Engine supporting DDNet & TMUF
 - [An7ar35/ctune](https://github.com/An7ar35/ctune) - nCurses internet radio player for Linux
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [Teero888/ddnet_maploader](https://github.com/Teero888/ddnet_maploader) - Load physics layers of a DDNet map
