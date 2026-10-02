@@ -61,7 +61,7 @@
 - [donno2048/snake-quine](https://github.com/donno2048/snake-quine) - An ASCII snake game, whose game layout is compilable and plays an ASCII snake game whose layout is compilable...
 - [PadWorld-Entertainment/worldofpadman](https://github.com/PadWorld-Entertainment/worldofpadman) - World of PADMAN game repository
 - [9fans/plan9port](https://github.com/9fans/plan9port) - Plan 9 from User Space
-- [Teero888/frametee](https://github.com/Teero888/frametee) - TAS Engine supporting DDNet & TMUF
+- [Teero888/frametee](https://github.com/Teero888/frametee) - TAS Engine supporting DDNet, TMUF and SM64
 - [An7ar35/ctune](https://github.com/An7ar35/ctune) - nCurses internet radio player for Linux
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [Teero888/ddnet_maploader](https://github.com/Teero888/ddnet_maploader) - Load physics layers of a DDNet map
@@ -348,6 +348,7 @@
 
 ## Rust 
 
+- [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
 - [topiary/topiary](https://github.com/topiary/topiary) - 
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [WGUNDERWOOD/tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt) - An extremely fast LaTeX formatter written in Rust
