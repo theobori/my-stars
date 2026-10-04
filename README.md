@@ -64,7 +64,7 @@
 - [Teero888/frametee](https://github.com/Teero888/frametee) - TAS Engine supporting DDNet, TMUF and SM64
 - [An7ar35/ctune](https://github.com/An7ar35/ctune) - nCurses internet radio player for Linux
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
-- [Teero888/ddnet_maploader](https://github.com/Teero888/ddnet_maploader) - Load physics layers of a DDNet map
+- [Teero888/ddnet_maploader](https://github.com/Teero888/ddnet_maploader) - Load DDNet map data
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [kugelrund/dzip](https://github.com/kugelrund/dzip) - Compression for Quake .dem files
 - [isovalent/game-of-life](https://github.com/isovalent/game-of-life) - Game Of Life example
@@ -307,7 +307,6 @@
 
 ## Python 
 
-- [davep/rogallo](https://github.com/davep/rogallo) - A terminal-based client for the small web
 - [mxmlnkn/mfusepy](https://github.com/mxmlnkn/mfusepy) - Ctypes bindings for the high-level API in libfuse 2 and 3
 - [hauntsaninja/git_bayesect](https://github.com/hauntsaninja/git_bayesect) - Bayesian git bisect
 - [EbodShojaei/bake](https://github.com/EbodShojaei/bake) - mbake is a Makefile formatter and linter. It only took 50 years!
@@ -348,6 +347,7 @@
 
 ## Rust 
 
+- [chasmlol/2010-rust-rewrite-mashup](https://github.com/chasmlol/2010-rust-rewrite-mashup) - MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
 - [topiary/topiary](https://github.com/topiary/topiary) - 
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
