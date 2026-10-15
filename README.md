@@ -282,7 +282,7 @@
 - [tee-community/awesome-tee](https://github.com/tee-community/awesome-tee) - A curated list of awesome things related to Teeworlds / DDraceNetwork
 - [gijsdev/ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) - uBlock Origin filter list to hide YouTube Shorts
 - [qmonnet/awesome-ebpf](https://github.com/qmonnet/awesome-ebpf) - A curated list of awesome projects related to eBPF.
-- [devangshekhawat/Fedora-44-Post-Install-Guide](https://github.com/devangshekhawat/Fedora-44-Post-Install-Guide) - Things to do after installing Fedora 44
+- [devangshekhawat/Fedora-45-Post-Install-Guide](https://github.com/devangshekhawat/Fedora-45-Post-Install-Guide) - Things to do after installing Fedora 45
 - [greyhat-academy/lists.d](https://github.com/greyhat-academy/lists.d) - List of useful things
 - [kot-behemoth/awesome-joplin](https://github.com/kot-behemoth/awesome-joplin) - 📒 A curated list of awesome Joplin themes and tools.
 - [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - 
