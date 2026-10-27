@@ -261,6 +261,7 @@
 - [BlaiZephyr/nix-dotfiles](https://github.com/BlaiZephyr/nix-dotfiles) - ❄️-dotfiles codeberg was fun boys, but we gitting now.
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) - Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN]
+- [4evy/nixcord](https://github.com/4evy/nixcord) - One Nix config for Discord mods, themes, and clients.
 - [numtide/flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions [maintainer=@zimbatm]
 - [theobori/nixos-configuration](https://github.com/theobori/nixos-configuration) - My NixOS configuration
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@cyclic-pentane]
@@ -412,7 +413,6 @@
 
 ## TypeScript 
 
-- [4evy/nixcord](https://github.com/4evy/nixcord) - One Nix config for Discord mods, themes, and clients.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
