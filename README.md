@@ -169,6 +169,7 @@
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
+- [osixia/container-openldap](https://github.com/osixia/container-openldap) - OpenLDAP container image 🐳🪪🌴
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [grubernaut/gdsh](https://github.com/grubernaut/gdsh) - Distributed shell, dancer's shell - In Go
 - [cblgh/lieu](https://github.com/cblgh/lieu) - community search engine
@@ -396,7 +397,6 @@
 - [bcliang/docker-libgourou](https://github.com/bcliang/docker-libgourou) - dockerized version of libgourou (free implementation of Adobe's ADEPT protocol used to manage DRM in ePub/PDF files). ACSM, Adobe Digital Editions, WINE-free
 - [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
 - [osixia/docker-phpLDAPadmin](https://github.com/osixia/docker-phpLDAPadmin) - phpLDAPadmin container image 🐳🌴
-- [osixia/container-openldap](https://github.com/osixia/container-openldap) - OpenLDAP container image 🐳🪪🌴
 - [travelaudience/kubernetes-nexus](https://github.com/travelaudience/kubernetes-nexus) - Run Sonatype Nexus Repository Manager OSS on top of Kubernetes (GKE). Includes instructions for automated backups (GCS) and day-to-day usage.
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
 - [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
