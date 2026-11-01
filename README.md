@@ -186,6 +186,7 @@
 
 - [nix-community/builtwithnix.org](https://github.com/nix-community/builtwithnix.org) - Share the love of Nix [maintainer=@zimbatm]
 - [noqqe/why-openbsd.rocks](https://github.com/noqqe/why-openbsd.rocks) - A website that helps me showing people why OpenBSD rocks
+- [labex-labs/linuxjourney](https://github.com/labex-labs/linuxjourney) - The official Linux Journey (formerly linuxjourney.com) source repository is maintained by LabEx.
 
 ## Haskell 
 
@@ -289,7 +290,6 @@
 - [kot-behemoth/awesome-joplin](https://github.com/kot-behemoth/awesome-joplin) - 📒 A curated list of awesome Joplin themes and tools.
 - [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - 
 - [vitalk/ansible-secure-ssh](https://github.com/vitalk/ansible-secure-ssh) - The ansible playbook to improve the security of your SSH
-- [labex-labs/linuxjourney](https://github.com/labex-labs/linuxjourney) - The official Linux Journey (formerly linuxjourney.com) source repository is maintained by LabEx.
 - [RosaWagner/Borel](https://github.com/RosaWagner/Borel) - French cursive font for primary school teachers.
 - [scraly/gophers](https://github.com/scraly/gophers) - Gopher artwork (Golang mascot)
 - [cutenode/1x.engineer](https://github.com/cutenode/1x.engineer) - The official website of 1x Engineers around the world
