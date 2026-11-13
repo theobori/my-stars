@@ -65,6 +65,7 @@
 - [An7ar35/ctune](https://github.com/An7ar35/ctune) - nCurses internet radio player for Linux
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [Teero888/ddnet_maploader](https://github.com/Teero888/ddnet_maploader) - Load DDNet map data
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [kugelrund/dzip](https://github.com/kugelrund/dzip) - Compression for Quake .dem files
 - [isovalent/game-of-life](https://github.com/isovalent/game-of-life) - Game Of Life example
@@ -313,7 +314,6 @@
 - [EbodShojaei/bake](https://github.com/EbodShojaei/bake) - mbake is a Makefile formatter and linter. It only took 50 years!
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [gw1urf/fakejpeg](https://github.com/gw1urf/fakejpeg) - Generate files that are almost JPEGs with random data. Possibly useful in feeding aggressive web crawlers.
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [jifunks/botany](https://github.com/jifunks/botany) - command line virtual plant buddy
 - [pyjokes/pyjokes](https://github.com/pyjokes/pyjokes) - One line jokes for programmers (jokes as a service)
 - [jackdoe/programming-for-kids](https://github.com/jackdoe/programming-for-kids) - book for parents and kids.
