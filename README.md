@@ -142,7 +142,7 @@
 
 ## Go 
 
-- [tdewolff/canvas](https://github.com/tdewolff/canvas) - Vector graphics in Go
+- [clbanning/mxj](https://github.com/clbanning/mxj) - Decode / encode XML to/from map[string]interface{} (or JSON); extract values with dot-notation paths and wildcards.  Replaces x2j and j2x packages.
 - [hashicorp/go-set](https://github.com/hashicorp/go-set) - The go-set package provides generic Set implementations for Go, including HashSet for types with a Hash() function and TreeSet for orderable data
 - [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
