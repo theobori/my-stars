@@ -65,7 +65,6 @@
 - [An7ar35/ctune](https://github.com/An7ar35/ctune) - nCurses internet radio player for Linux
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [Teero888/ddnet_maploader](https://github.com/Teero888/ddnet_maploader) - Load DDNet map data
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [kugelrund/dzip](https://github.com/kugelrund/dzip) - Compression for Quake .dem files
 - [isovalent/game-of-life](https://github.com/isovalent/game-of-life) - Game Of Life example
