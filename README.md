@@ -65,6 +65,7 @@
 - [An7ar35/ctune](https://github.com/An7ar35/ctune) - nCurses internet radio player for Linux
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [Teero888/ddnet_maploader](https://github.com/Teero888/ddnet_maploader) - Load DDNet map data
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [kugelrund/dzip](https://github.com/kugelrund/dzip) - Compression for Quake .dem files
 - [isovalent/game-of-life](https://github.com/isovalent/game-of-life) - Game Of Life example
@@ -185,7 +186,6 @@
 
 - [nix-community/builtwithnix.org](https://github.com/nix-community/builtwithnix.org) - Share the love of Nix [maintainer=@zimbatm]
 - [noqqe/why-openbsd.rocks](https://github.com/noqqe/why-openbsd.rocks) - A website that helps me showing people why OpenBSD rocks
-- [labex-labs/linuxjourney](https://github.com/labex-labs/linuxjourney) - The official Linux Journey (formerly linuxjourney.com) source repository is maintained by LabEx.
 
 ## Haskell 
 
@@ -288,6 +288,7 @@
 - [kot-behemoth/awesome-joplin](https://github.com/kot-behemoth/awesome-joplin) - 📒 A curated list of awesome Joplin themes and tools.
 - [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - 
 - [vitalk/ansible-secure-ssh](https://github.com/vitalk/ansible-secure-ssh) - The ansible playbook to improve the security of your SSH
+- [labex-labs/linuxjourney](https://github.com/labex-labs/linuxjourney) - The official Linux Journey (formerly linuxjourney.com) source repository is maintained by LabEx.
 - [RosaWagner/Borel](https://github.com/RosaWagner/Borel) - French cursive font for primary school teachers.
 - [scraly/gophers](https://github.com/scraly/gophers) - Gopher artwork (Golang mascot)
 - [cutenode/1x.engineer](https://github.com/cutenode/1x.engineer) - The official website of 1x Engineers around the world
