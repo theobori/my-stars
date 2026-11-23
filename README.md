@@ -198,7 +198,6 @@
 ## Java 
 
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
-- [jankammerath/gophie](https://github.com/jankammerath/gophie) - Gophie is a modern, graphical and cross-platform client or browser for "The Internet Gopher" also known as the Gopher protocol. Gophie supports browsing gopher pages, using search engines such as Vero
 - [hrehfeld/QuakeInjector](https://github.com/hrehfeld/QuakeInjector) - Download, install and play quake singleplayer maps from the quaddicted.com archive
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 
@@ -351,6 +350,7 @@
 - [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software
 - [topiary/topiary](https://github.com/topiary/topiary) - 
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
+- [jankammerath/gophie](https://github.com/jankammerath/gophie) - Gophie is a modern, graphical and cross-platform client or browser for "The Internet Gopher" also known as the Gopher protocol. Gophie supports browsing gopher pages, using search engines such as Vero
 - [WGUNDERWOOD/tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt) - An extremely fast LaTeX formatter written in Rust
 - [ElXreno/flathub-stats](https://github.com/ElXreno/flathub-stats) - Utility for fast grepping stats from Flathub.
 - [ddnet/ddnet-rs](https://github.com/ddnet/ddnet-rs) - 
